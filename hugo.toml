@@ -1,0 +1,37 @@
+baseURL = 'https://target.deelmind.com/'
+languageCode = 'en-us'
+title = 'KnowYou'
+theme = "coder"
+
+[params]
+  author = "DeeLMind"
+  info = "知己知彼"
+  avatarurl = "/images/me.png"
+
+  faviconSVG = "/images/me.png"
+  favicon_32 = "/images/me.png"
+  favicon_16 = "/images/me.png"
+
+  colorScheme = "dark"
+
+# Menu links
+[[menu.main]]
+  name = "渗透教程"
+  weight = 1
+  url  = "https://deelmind.com"
+[[menu.main]]
+  name = "渗透平台"
+  weight = 2
+  url = "https://safe.deelmind.com"
+[[menu.main]]
+  name = "回头是岸"
+  weight = 3
+  url = "list/"
+[[menu.main]]
+  name = "提交地址"
+  weight = 4
+  url = "https://gitlab.com/deelmind/target"
+[[menu.main]]
+  name = "关于本站"
+  weight = 4
+  url = "about/"

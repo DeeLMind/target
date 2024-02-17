@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>KnowYou</title>
+    <link>https://target.deelmind.com/</link>
+    <description>Recent content on KnowYou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://target.deelmind.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://target.deelmind.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://target.deelmind.com/about/</guid>
+      <description>&#xD;关于本站&#xD;Link to heading&#xD;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://target.deelmind.com/list/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://target.deelmind.com/list/</guid>
+      <description>回头是岸&#xD;Link to heading&#xD;aaa</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://target.deelmind.com/posts/a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://target.deelmind.com/posts/a/</guid>
+      <description>aa</description>
+    </item>
+  </channel>
+</rss>
