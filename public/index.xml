@@ -12,21 +12,21 @@
       <link>https://target.deelmind.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://target.deelmind.com/about/</guid>
-      <description>&#xD;关于本站&#xD;Link to heading&#xD;</description>
+      <description>关于本站&#xD;Link to heading&#xD;功能目的&#xD;Link to heading&#xD;DeeLMind发起的一个记录那些骗子的公告网站，让所有人知道他们的恶行，并且希望其能改过自新。&#xA;如何提交&#xD;Link to heading&#xD;每个人都可以提交相关骗子内容，请不要提供虚假信息，要有真凭实据，请在提交地址查看。&#xA;提交格式&#xD;Link to heading&#xD;回头是岸里面填写骗子概况信息，详细信息填写到gitlab里面target/content/posts/name_id.md&#xA;list内容&#xD;Link to heading&#xD;张三_恶行_改过没有（张三_诈骗_悔改，张三_欠钱不还_未悔改） posts内容&#xD;Link to heading&#xD;posts/zhangsan_0.md posts/zhangsan_0.md内容&#xD;Link to heading&#xD;格式查看/content/posts/zhangsan_0.md例子，可以新增，不要死板</description>
     </item>
     <item>
       <title></title>
       <link>https://target.deelmind.com/list/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://target.deelmind.com/list/</guid>
-      <description>回头是岸&#xD;Link to heading&#xD;aaa</description>
+      <description>&#xD;回头是岸&#xD;Link to heading&#xD;张三_诈骗_悔改例子 </description>
     </item>
     <item>
       <title></title>
-      <link>https://target.deelmind.com/posts/a/</link>
+      <link>https://target.deelmind.com/posts/zhangsan_0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://target.deelmind.com/posts/a/</guid>
-      <description>aa</description>
+      <guid>https://target.deelmind.com/posts/zhangsan_0/</guid>
+      <description>&#xD;张三&#xD;Link to heading&#xD;恶行&#xD;Link to heading&#xD;起因，经过，结果，如何处理，没有办法，曝光 个人信息&#xD;Link to heading&#xD;姓名，电话，手机，ID，等等&#xA;照片&#xD;Link to heading&#xD;联系方式&#xD;Link to heading&#xD;邮箱：[您的邮箱地址] 电话：[您的电话号码] 微信：[您的微信号] GitHub：[您的 GitHub 用户名] 教育背景&#xD;Link to heading&#xD;2018-2022 [您的大学名称]，[您的专业] 2014-2018 [您的高中名称] 工作经历&#xD;Link to heading&#xD;2022-至今 [您的公司名称]，[您的职位] 2020-2022 [您的公司名称]，[您的职位] 技能&#xD;Link to heading&#xD;编程语言：[您掌握的编程语言] 软件工具：[您熟悉的软件工具] 其他技能：[您其他技能] 其他兴趣爱好&#xD;Link to heading&#xD;[您的兴趣爱好] [您的兴趣爱好] </description>
     </item>
   </channel>
 </rss>

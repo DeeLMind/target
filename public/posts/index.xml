@@ -9,10 +9,10 @@
     <atom:link href="https://target.deelmind.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://target.deelmind.com/posts/a/</link>
+      <link>https://target.deelmind.com/posts/zhangsan_0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://target.deelmind.com/posts/a/</guid>
-      <description>aa</description>
+      <guid>https://target.deelmind.com/posts/zhangsan_0/</guid>
+      <description>&#xD;张三&#xD;Link to heading&#xD;恶行&#xD;Link to heading&#xD;起因，经过，结果，如何处理，没有办法，曝光 个人信息&#xD;Link to heading&#xD;姓名，电话，手机，ID，等等&#xA;照片&#xD;Link to heading&#xD;联系方式&#xD;Link to heading&#xD;邮箱：[您的邮箱地址] 电话：[您的电话号码] 微信：[您的微信号] GitHub：[您的 GitHub 用户名] 教育背景&#xD;Link to heading&#xD;2018-2022 [您的大学名称]，[您的专业] 2014-2018 [您的高中名称] 工作经历&#xD;Link to heading&#xD;2022-至今 [您的公司名称]，[您的职位] 2020-2022 [您的公司名称]，[您的职位] 技能&#xD;Link to heading&#xD;编程语言：[您掌握的编程语言] 软件工具：[您熟悉的软件工具] 其他技能：[您其他技能] 其他兴趣爱好&#xD;Link to heading&#xD;[您的兴趣爱好] [您的兴趣爱好] </description>
     </item>
   </channel>
 </rss>
